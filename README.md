@@ -1,8 +1,10 @@
 # Eitaa.dll
-Eitaa Application Library for C#
+Eitaa Application Library for C# :
 
-- Sending messages
- -- send file
-- Receive user information
+-- Send Message
 
-- Developed by AGC007 -
+-- Send File
+
+-- Receive user information
+
+------- Developed by AGC007 -------
